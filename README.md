@@ -1,4 +1,5 @@
 # Amrita-giri
+![logo](https://github.com/Amritagiri26/Amrita-giri/blob/main/WhatsApp%20Image%202024-02-16%20at%2015.12.20_1c4d6592.jpg)
 <h1 align="center">Hi 👋, I'm Amrita Giri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
